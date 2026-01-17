@@ -47,7 +47,7 @@ const CTA = () => {
                 boxShadow: ["0 0 0 0px rgba(255,255,255,0.4)", "0 0 0 20px rgba(255,255,255,0)"] 
               }}
               transition={{ duration: 1.5, repeat: Infinity }}
-              onClick={() => window.open('https://wa.me/6379362078', '_blank')}
+              onClick={() => window.open('https://wa.me/917904417586', '_blank')}
               className="bg-accent text-white px-10 py-4 rounded-full font-bold text-lg shadow-xl flex items-center gap-3 transition-colors"
             >
               <MessageCircle size={24} /> Bulk Quote

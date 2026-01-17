@@ -8,14 +8,14 @@ const Contact = () => {
     {
       icon: <Phone className="text-primary" />,
       label: "Call Us",
-      value: "+91 63793 62078",
-      href: "tel:+916379362078"
+      value: "+91 79044 17586",
+      href: "tel:+917904417586"
     },
     {
       icon: <MessageCircle className="text-primary" />,
       label: "WhatsApp",
-      value: "+91 63793 62078",
-      href: "https://wa.me/6379362078"
+      value: "+91 79044 17586",
+      href: "https://wa.me/917904417586"
     },
     {
       icon: <Mail className="text-primary" />,

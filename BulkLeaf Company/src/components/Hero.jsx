@@ -39,7 +39,7 @@ const Hero = () => {
             <motion.button
               whileHover={{ scale: 1.05, boxShadow: '0 0 20px rgba(16, 185, 129, 0.4)' }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.open('https://wa.me/6379362078', '_blank')}
+              onClick={() => window.open('https://wa.me/917904417586', '_blank')}
               className="btn-primary flex items-center gap-2"
             >
               Get Bulk Quote <ArrowRight size={20} />

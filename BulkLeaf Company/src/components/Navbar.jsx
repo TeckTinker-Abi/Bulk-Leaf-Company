@@ -61,7 +61,7 @@ const Navbar = () => {
               Order Now
             </a>
             <button 
-              onClick={() => window.open('https://wa.me/6379362078', '_blank')}
+              onClick={() => window.open('https://wa.me/917904417586', '_blank')}
               className="btn-primary"
             >
               Bulk Orders
@@ -110,7 +110,7 @@ const Navbar = () => {
                 </a>
                 <button 
                   onClick={() => {
-                    window.open('https://wa.me/6379362078', '_blank');
+                    window.open('https://wa.me/917904417586', '_blank');
                     setIsOpen(false);
                   }}
                   className="btn-primary w-full"

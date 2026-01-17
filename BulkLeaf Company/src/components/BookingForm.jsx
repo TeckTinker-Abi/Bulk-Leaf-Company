@@ -104,7 +104,7 @@ const BookingForm = ({ product, onClose }) => {
       `*Pincode:* ${formData.pincode}%0A` +
       `*Quantity:* ${formData.quantity}`;
 
-    const whatsappUrl = `https://wa.me/6379362078?text=${message}`;
+    const whatsappUrl = `https://wa.me/917904417586?text=${message}`;
     
     // Open WhatsApp
     window.open(whatsappUrl, '_blank');
